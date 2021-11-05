@@ -1,4 +1,5 @@
 # Earthquake risk embedded in property prices: Evidence from five Japanese cities
+### Masako Ikefuji, Roger J. A. Laeven, Jan R. Magnus & Yuan Yue
 # Author Contributions Checklist Form
 
 ## 1 Data
